@@ -36,7 +36,7 @@
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasszz2k&show_icons=true&locale=en&layout=compact" alt="tasszz2k" /></p>
+[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasszz2k&show_icons=true&locale=en&layout=compact" alt="tasszz2k" /></p>)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasszz2k&show_icons=true&locale=en" alt="tasszz2k" /></p>
 
