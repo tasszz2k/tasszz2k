@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tass</h1>
-<i align="center">I'm a dreamy coder who wants to be a Solution Architect. Why do I say I'm a dreamy coder, besides coding, I also write poems. Start Roadmap is a Back-end Developer. I want to work in a professional technology environment and always give my best efforts to the company and its products. "It is what I love to do, not what I have to do."</i>
+<i align="center">I'm a dreamy coder who wants to be a Solution Architect. Why do I say I'm a dreamy coder, besides coding, I also write poems. Start Roadmap is a Back-end Developer. I want to work in a professional technology environment and always give my best efforts to the company and its products. </i>
+</p>
+<b><i>"It is what I love to do, not what I have to do."</i></b>
 
 
 <h3 align="left">Connect with me:</h3>
