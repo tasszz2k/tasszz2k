@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tass</h1>
-<i align="center">I'm a dreamy coder who wants to be a Solution Architect. Why do I say I'm a dreamy coder, besides coding, I also write poems. Start Roadmap is a Back-end Developer. I want to work in a professional technology environment and always give my best efforts to the company and its products. </i>
+<i align="center">A passionate and dreamy coder aspiring to become a Solution Architect. I said that because besides coding, I also write poems. With over four years of experience working as a Back-end Developer and Platform Engineer, I aim to work in the fintech, e-logistics, and e-commerce sectors within a professional technology environment. As a fast learner who enjoys solving challenging problems in Computer Science and Engineering, I consistently dedicate my best efforts to delivering top-notch products to end users and contributing to company success. </i>
 </p>
-<b><i>"It is what I love to do, not what I have to do."</i></b>
+<b>I always believe that: <i>'It’s not about what I have to do, but about what I love to do’</i></b>
 
 
 <h3 align="left">Connect with me:</h3>
